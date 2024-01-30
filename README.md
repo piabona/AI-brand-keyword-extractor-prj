@@ -22,7 +22,7 @@
     sophistication = ["매력적임","여성스러움","우아함","화려함","부드러움"]
     ruggedness = ["거침","남성적임","외향적임","튼튼함"]
     ```
-  - Visualization : 뉴진스 vs 블랙핑크 BPS 분석 비교
+  - Visualization : ex. 뉴진스 vs 블랙핑크 BPS 분석 비교
 
 ## Environment
 - Google Colab / Google Drive
