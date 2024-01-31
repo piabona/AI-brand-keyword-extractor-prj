@@ -2,7 +2,7 @@
 ## 브랜드 이미지 키워드 추출 서비스 프로젝트 
 
 - 광고주들을 위한 인물/브랜드의 이미지와 관련된 키워드 및 특성 추출 서비스 (멀티캠퍼스 Bootcamp semi 프로젝트)
-- 2023/7/20 ~ 2023/08/04
+- 기간 : 2023년 7월(6인)
 
 ## Summary
 **1. Image Keyword dictionary**
@@ -22,7 +22,7 @@
     sophistication = ["매력적임","여성스러움","우아함","화려함","부드러움"]
     ruggedness = ["거침","남성적임","외향적임","튼튼함"]
     ```
-  - Visualization : ex. 뉴진스 vs 블랙핑크 BPS 분석 비교
+  - Visualization : ex. 뉴진스 vs 블랙핑크 BPS 분석 비교 그래프 
 
 ## Environment
 - Google Colab / Google Drive
